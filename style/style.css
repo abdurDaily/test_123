@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@700&family=Poppins:wght@300;400;500;600;700&display=swap');
+
+
+h1{
+    font-family: 'Poppins', sans-serif;
+}
+.sub{
+    width: 252px;
+    height: 388px;
+    background-color: #FFFFFF;
+}
+
+#main .save span{
+    width: 70px;
+    height: 25px;
+    display: inline-block;
+    background-color: #6E2594;
+    color: #fff;
+    border-radius: 0 15px 15px 0;
+}
+
+#main .img{
+    text-align: center;
+}
+
+.price .present-price{
+   color: #ef4a23;
+}
+
+
+.price .delete{
+   text-decoration: line-through;
+}
+
+
+.details a{
+    font-weight: bold;
+}
+
+
+#test{
+    background-color: #6E2594;
+    width: 100px;
+    height: 100px;
+}
